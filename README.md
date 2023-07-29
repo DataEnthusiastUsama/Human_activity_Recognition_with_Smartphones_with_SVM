@@ -1,0 +1,1 @@
+# Human_activity_Recognition_with_Smartphones_with_SVM
